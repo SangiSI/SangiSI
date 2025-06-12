@@ -4,13 +4,13 @@ I am a **Senior Data Scientist at Ericsson**. I’m passionate about Artificial 
 
 ---
 
-- 🔭 I’m currently working on **Applied AI Research**
-- 🌱 I’m currently learning **Graph Neural Networks & ML Systems**
+- 🔭 I’m currently working on **Applied AI Research** and **productifying AI prototypes**
+- 🌱 I’m currently learning **Graph Neural Networks**, **ML Systems**, and **Agentic AI / Generative AI**
 - 🤝 I’m looking to collaborate on **AI research or academic initiatives**
 - 🧠 I’m looking for help with **productionizing ML pipelines**
 - 💬 Ask me about **AI, XAI, deep learning, or productivity tools**
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: *I once built a neural net to generate my tweets!*
+- ⚡ Fun fact: *Built a graph model to identify influencers — surprisingly, the quietest node was the most connected*
 
 ---
 
