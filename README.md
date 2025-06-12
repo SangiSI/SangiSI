@@ -5,7 +5,7 @@ I'm a **Senior Data Scientist at Ericsson**, deeply passionate about advancing A
 ---
 
 - 🔭 I’m currently working on **Applied AI Research** and **productifying AI prototypes**
-- 🌱 I’m currently learning **Agentic AI / Generative AI**
+- 🌱 I’m currently diving into **Agentic and Generative AI**, with a focus on **AI-assisted decision-making and multi-agent systems**
 - 🤝 I'm open to collaborative opportunities across **academia and industry in the AI/ML space**
 - 🧠 I’m looking for help with **productionizing ML pipelines**
 - 💬 I'm open to conversations on anything - always happy to connect and exchange ideas!
