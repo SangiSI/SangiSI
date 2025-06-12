@@ -1,8 +1,5 @@
 ## Hi there! I'm Sangam 👋
 
-<!--
-**SangiSI/SangiSI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a **Senior Data Scientist at Ericsson**. I’m passionate about Artificial Intelligence, and my research interests include **Explainable AI** and **Geometric Deep Learning**.
 
 ---
