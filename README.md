@@ -1,6 +1,6 @@
 ## Hi there! I'm Sangam 👋
 
-I am a **Senior Data Scientist at Ericsson**. I’m passionate about Artificial Intelligence, and my research interests include **Explainable AI** and **Geometric Deep Learning**.
+I'm a **Senior Data Scientist at Ericsson**, deeply passionate about advancing Artificial Intelligence. My areas of focus include **Explainable AI, Geometric Deep Learning and Advanced Statistical Learning**.
 
 ---
 
@@ -8,9 +8,9 @@ I am a **Senior Data Scientist at Ericsson**. I’m passionate about Artificial 
 - 🌱 I’m currently learning **Graph Neural Networks**, **ML Systems**, and **Agentic AI / Generative AI**
 - 🤝 I'm open to collaborative opportunities across **academia and industry in the AI/ML space**
 - 🧠 I’m looking for help with **productionizing ML pipelines**
-- 💬 I'm open to conversations on anything-always happy to connect and exchange ideas!
+- 💬 I'm open to conversations on anything - always happy to connect and exchange ideas!
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: *Built a graph model to identify influencers — surprisingly, the quietest node was the most connected*
+- ⚡ Fun fact: *Built a graph model to identify influencers - surprisingly, the quietest node was the most connected*
 
 ---
 
