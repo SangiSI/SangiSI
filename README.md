@@ -46,7 +46,17 @@ I am a **Senior Data Scientist at Ericsson**. I’m passionate about Artificial 
 
 ## 🌍 Where to find me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sangamsingh09)
-- 🐦 [Twitter](https://twitter.com/your-handle)
-- 📫 [your.email@example.com](mailto:your.email@example.com)
-  
+<p align="left">
+  <a href="https://www.linkedin.com/in/sangamsingh09" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your_email@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <a href="mailto:your_email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
