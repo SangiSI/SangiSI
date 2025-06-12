@@ -9,8 +9,7 @@ I am a **Senior Data Scientist at Ericsson**. I’m passionate about Artificial 
 - 🤝 I’m looking to collaborate on **AI research or academic initiatives**
 - 🧠 I’m looking for help with **productionizing ML pipelines**
 - 💬 Ask me about **AI, XAI, deep learning, or productivity tools**
-- 📬 How to reach me: **[your.email@example.com](mailto:your.email@example.com)** or [LinkedIn](https://www.linkedin.com/in/sangamsingh09)
-- 😄 Pronouns: **he/him** (or update accordingly)
+- 😄 Pronouns: **he/him**
 - ⚡ Fun fact: *I once built a neural net to generate my tweets!*
 
 ---
@@ -47,7 +46,7 @@ I am a **Senior Data Scientist at Ericsson**. I’m passionate about Artificial 
 
 ## 🌍 Where to find me
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sangamsingh09)
 - 🐦 [Twitter](https://twitter.com/your-handle)
 - 📫 [your.email@example.com](mailto:your.email@example.com)
   
