@@ -1,6 +1,6 @@
 ## Hi there! I'm Sangam 👋
 
-I'm a **Senior Data Scientist at Ericsson**, deeply passionate about advancing Artificial Intelligence. My areas of focus include **Geometric Deep Learning and Advanced Statistical Learning**.
+I'm a **Applied Data Scientist**, deeply passionate about advancing Artificial Intelligence. My areas of focus include **Geometric Deep Learning and Advanced Statistical Learning**.
 
 ---
 
