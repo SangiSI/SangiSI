@@ -5,12 +5,13 @@ I'm a **Applied Data Scientist**, deeply passionate about advancing Artificial I
 ---
 
 - 🔭 I’m currently working on **Applied AI Research** and **productifying AI prototypes**
-- 🌱 I’m currently diving into **Agentic and Generative AI**, with a focus on **AI-assisted decision-making and multi-agent systems**
+- 🌱 I’m currently diving into **Agentic and Generative AI**, with a focus on **LLM-powered decision support, multi-agent systems, and human-in-the-loop AI**
 - 🤝 I'm open to collaborative opportunities across **academia and industry in the AI/ML space**
 - 🧠 I’m looking for help with **productionizing ML pipelines**
 - 💬 I'm open to conversations on anything - always happy to connect and exchange ideas!
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: *Built a graph model to identify influencers - surprisingly, the quietest node was the most connected*
+- 🧪 Interested in **LLM evaluation, bias analysis, and robustness** for real-world analytical and research workflows
 
 ---
 
@@ -29,6 +30,15 @@ I'm a **Applied Data Scientist**, deeply passionate about advancing Artificial I
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" height="25"/>
+
+  <!-- LLMs & Generative AI -->
+  <img src="https://img.shields.io/badge/-Large%20Language%20Models-4B0082?style=flat-square" height="25"/>
+  <img src="https://img.shields.io/badge/-Transformers-FF8C00?style=flat-square" height="25"/>
+  <img src="https://img.shields.io/badge/-Prompt%20Engineering-6A5ACD?style=flat-square" height="25"/>
+  <img src="https://img.shields.io/badge/-RAG-2E8B57?style=flat-square" height="25"/>
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square" height="25"/>
+  <img src="https://img.shields.io/badge/-LlamaIndex-5F9EA0?style=flat-square" height="25"/>
+  <img src="https://img.shields.io/badge/-Vector%20Databases-708090?style=flat-square" height="25"/>
 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" height="25"/>
