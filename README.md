@@ -1,6 +1,6 @@
 ## Hi there! I'm Sangam 👋
 
-I'm a **Applied Data Scientist**, deeply passionate about advancing Artificial Intelligence. My areas of focus include **Geometric Deep Learning and Advanced Statistical Learning**.
+I'm a **Applied Data Scientist**, deeply passionate about advancing Artificial Intelligence. My areas of focus include **Geometric Deep Learning, Advanced Statistical Learning, and Large Language Models (LLMs) for applied research and decision intelligence**.
 
 ---
 
