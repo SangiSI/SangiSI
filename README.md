@@ -10,7 +10,6 @@ I'm an **Applied Data Scientist**, deeply passionate about advancing Artificial 
 - 🤝 Open to collaboration across **academia and industry in the AI/ML space**
 - 🧠 Experienced in **designing and productionizing ML pipelines** with reproducibility, monitoring, and governance in mind
 - 💬 Open to conversations on anything - always happy to connect and exchange ideas!
-- 😄 Pronouns: **he/him**
 - ⚡ Fun fact: *Built a graph model to identify influencers - surprisingly, the quietest node was the most connected*
 - 🧪 Particularly interested in **LLM evaluation, bias analysis, and robustness** for real-world analytical and research workflows
 
