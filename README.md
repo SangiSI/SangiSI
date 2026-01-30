@@ -24,8 +24,8 @@ I'm an **Applied Data Scientist**, deeply passionate about advancing Artificial 
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" height="25"/>
 
   <!-- ML Libraries -->
-  <img src="https://img.shields.io/badge/-XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-LightGBM-3C9C35?style=flat-square&logo=lightgbm&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="25"/>
@@ -54,11 +54,13 @@ I'm an **Applied Data Scientist**, deeply passionate about advancing Artificial 
 
 ---
 
-## 🔬 Engineering & Quality
+## 🔬 Engineering & Research Mindset
 
-![CI](https://img.shields.io/badge/CI-GitHub%20Actions-blue)
-![Code Quality](https://img.shields.io/badge/Code%20Quality-Pylint-green)
-![Reproducibility](https://img.shields.io/badge/Reproducible-ML-blueviolet)
+<p align="left">
+  <img src="https://img.shields.io/badge/CI-GitHub%20Actions-blue?style=flat-square" height="25"/>
+  <img src="https://img.shields.io/badge/Code%20Quality-Pylint-green?style=flat-square" height="25"/>
+  <img src="https://img.shields.io/badge/Reproducible%20ML-Yes-blueviolet?style=flat-square" height="25"/>
+</p>
 
 ---
 
@@ -80,5 +82,3 @@ I'm an **Applied Data Scientist**, deeply passionate about advancing Artificial 
 </p>
 
 ---
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SangiSI&show_icons=true&hide_title=true)
