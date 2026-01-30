@@ -1,17 +1,18 @@
 ## Hi there! I'm Sangam 👋
 
-I'm a **Applied Data Scientist**, deeply passionate about advancing Artificial Intelligence. My areas of focus include **Geometric Deep Learning, Advanced Statistical Learning, and Large Language Models (LLMs) for applied research and decision intelligence**.
+I'm an **Applied Data Scientist**, deeply passionate about advancing Artificial Intelligence. My areas of focus include **Geometric Deep Learning, Advanced Statistical Learning, and Large Language Models (LLMs) for applied research and decision intelligence**.
 
 ---
 
-- 🔭 I’m currently working on **Applied AI Research** and **productifying AI prototypes**
-- 🌱 I’m currently diving into **Agentic and Generative AI**, with a focus on **LLM-powered decision support, multi-agent systems, and human-in-the-loop AI**
-- 🤝 I'm open to collaborative opportunities across **academia and industry in the AI/ML space**
+### 🔍 What I do
+- 🔭 Working on **Applied AI Research** and **productifying AI prototypes**
+- 🌱 Exploring **Agentic and Generative AI**, including **LLM-powered decision support, multi-agent systems, and human-in-the-loop AI**
+- 🤝 Open to collaboration across **academia and industry in the AI/ML space**
 - 🧠 Experienced in **designing and productionizing ML pipelines** with reproducibility, monitoring, and governance in mind
-- 💬 I'm open to conversations on anything - always happy to connect and exchange ideas!
+- 💬 Open to conversations on anything - always happy to connect and exchange ideas!
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: *Built a graph model to identify influencers - surprisingly, the quietest node was the most connected*
-- 🧪 Interested in **LLM evaluation, bias analysis, and robustness** for real-world analytical and research workflows
+- 🧪 Particularly interested in **LLM evaluation, bias analysis, and robustness** for real-world analytical and research workflows
 
 ---
 
