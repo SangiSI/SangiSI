@@ -7,7 +7,7 @@ I'm a **Applied Data Scientist**, deeply passionate about advancing Artificial I
 - 🔭 I’m currently working on **Applied AI Research** and **productifying AI prototypes**
 - 🌱 I’m currently diving into **Agentic and Generative AI**, with a focus on **LLM-powered decision support, multi-agent systems, and human-in-the-loop AI**
 - 🤝 I'm open to collaborative opportunities across **academia and industry in the AI/ML space**
-- 🧠 I’m looking for help with **productionizing ML pipelines**
+- 🧠 Experienced in **designing and productionizing ML pipelines** with reproducibility, monitoring, and governance in mind
 - 💬 I'm open to conversations on anything - always happy to connect and exchange ideas!
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: *Built a graph model to identify influencers - surprisingly, the quietest node was the most connected*
@@ -54,6 +54,14 @@ I'm a **Applied Data Scientist**, deeply passionate about advancing Artificial I
 
 ---
 
+## 🔬 Engineering & Quality
+
+![CI](https://img.shields.io/badge/CI-GitHub%20Actions-blue)
+![Code Quality](https://img.shields.io/badge/Code%20Quality-Pylint-green)
+![Reproducibility](https://img.shields.io/badge/Reproducible-ML-blueviolet)
+
+---
+
 ## 🌍 Where to find me
 
 <p align="left">
@@ -70,3 +78,7 @@ I'm a **Applied Data Scientist**, deeply passionate about advancing Artificial I
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="42" alt="Gmail"/>
   </a>
 </p>
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SangiSI&show_icons=true&hide_title=true)
