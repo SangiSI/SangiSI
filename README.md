@@ -54,7 +54,7 @@ I'm an **Applied Data Scientist**, deeply passionate about advancing Artificial 
 
 ---
 
-## 🔬 Engineering & Research Mindset
+## 🔬 Engineering & Quality
 
 <p align="left">
   <img src="https://img.shields.io/badge/CI-GitHub%20Actions-blue?style=flat-square" height="25"/>
