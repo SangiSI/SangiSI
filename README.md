@@ -36,7 +36,11 @@ I'm an **Applied Data Scientist**, deeply passionate about advancing Artificial 
   <img src="https://img.shields.io/badge/-Transformers-FF8C00?style=flat-square" height="25"/>
   <img src="https://img.shields.io/badge/-Prompt%20Engineering-6A5ACD?style=flat-square" height="25"/>
   <img src="https://img.shields.io/badge/-RAG-2E8B57?style=flat-square" height="25"/>
+
   <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square" height="25"/>
+  <img src="https://img.shields.io/badge/-LangGraph-0B3C49?style=flat-square" height="25"/>
+  <img src="https://img.shields.io/badge/-LangFlow-256D85?style=flat-square" height="25"/>
+
   <img src="https://img.shields.io/badge/-LlamaIndex-5F9EA0?style=flat-square" height="25"/>
   <img src="https://img.shields.io/badge/-Vector%20Databases-708090?style=flat-square" height="25"/>
 
