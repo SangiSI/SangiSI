@@ -31,6 +31,18 @@ I'm an **Applied Data Scientist**, deeply passionate about advancing Artificial 
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" height="25"/>
 
+  <!-- Statistical Foundations -->
+  <img src="https://img.shields.io/badge/-Statistical%20Inference-2F4F4F?style=flat-square" height="25"/>
+  <img src="https://img.shields.io/badge/-SPSS-003A8F?style=flat-square" height="25"/>
+  <img src="https://img.shields.io/badge/-R%20Programming-276DC3?style=flat-square" height="25"/>
+  <img src="https://img.shields.io/badge/-Time%20Series%20Methods-8B4513?style=flat-square" height="25"/>
+
+  <!-- Data Visualization & BI -->
+  <img src="https://img.shields.io/badge/-Data%20Visualization-2C3E50?style=flat-square" height="25"/>
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-QlikView-2ECC71?style=flat-square" height="25"/>
+  <img src="https://img.shields.io/badge/-Qlik%20Sense-00B4E5?style=flat-square" height="25"/>
+
   <!-- LLMs & Generative AI -->
   <img src="https://img.shields.io/badge/-Large%20Language%20Models-4B0082?style=flat-square" height="25"/>
   <img src="https://img.shields.io/badge/-Transformers-FF8C00?style=flat-square" height="25"/>
