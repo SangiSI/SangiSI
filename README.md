@@ -40,7 +40,6 @@ I'm an **Applied Data Scientist**, deeply passionate about advancing Artificial 
   <!-- Data Visualization & BI -->
   <img src="https://img.shields.io/badge/-Data%20Visualization-2C3E50?style=flat-square" height="25"/>
   <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-QlikView-2ECC71?style=flat-square" height="25"/>
   <img src="https://img.shields.io/badge/-Qlik%20Sense-00B4E5?style=flat-square" height="25"/>
 
   <!-- LLMs & Generative AI -->
