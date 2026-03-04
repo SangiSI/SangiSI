@@ -1,6 +1,8 @@
 ## Hi there! I'm Sangam 👋
 
-I'm an **Applied Data Scientist**, deeply passionate about advancing Artificial Intelligence. My areas of focus include **Geometric Deep Learning, Advanced Statistical Learning, and Large Language Models (LLMs) for applied research and decision intelligence**.
+![Visitors](https://komarev.com/ghpvc/?username=SangiSI&color=blue)
+
+I'm an **Applied Data Scientist**, deeply passionate about advancing Artificial Intelligence. My work focuses on **Geometric Deep Learning, Advanced Statistical Learning, Large Language Models (LLMs), and MLOps**, with an emphasis on **applied research, production AI systems, and decision intelligence**.
 
 ---
 
@@ -8,10 +10,36 @@ I'm an **Applied Data Scientist**, deeply passionate about advancing Artificial 
 - 🔭 Working on **Applied AI Research** and **productifying AI prototypes**
 - 🌱 Exploring **Agentic and Generative AI**, including **LLM-powered decision support, multi-agent systems, and human-in-the-loop AI**
 - 🤝 Open to collaboration across **academia and industry in the AI/ML space**
-- 🧠 Experienced in **designing and productionizing ML pipelines** with reproducibility, monitoring, and governance in mind
+- 🧠 Experienced in **designing and operationalizing ML pipelines and MLOps workflows** with reproducibility, monitoring, and governance in mind
+- 🧪 Interested in **LLM evaluation, bias analysis, and robustness** for real-world analytical and research workflows
 - 💬 Open to conversations on anything - always happy to connect and exchange ideas!
 - ⚡ Fun fact: *Built a graph model to identify influencers - surprisingly, the quietest node was the most connected*
-- 🧪 Particularly interested in **LLM evaluation, bias analysis, and robustness** for real-world analytical and research workflows
+
+---
+
+## 🚀 Featured Work
+
+- **Databricks MLOps Lifecycle**  
+  End-to-end ML lifecycle using **Spark ML, MLflow, Delta Lake, orchestration, and drift monitoring**.
+
+- **pgvector Semantic Search Demo**  
+  Vector similarity search system using **PostgreSQL pgvector** for **semantic retrieval and RAG-style workflows**.
+
+- **Time Series Research Lab**  
+  Forecasting, anomaly detection, and statistical modelling for **large-scale temporal data analysis**.
+  
+---
+
+## 🔭 Current Research Directions
+
+My interests sit at the intersection of **Applied AI systems, MLOps, and decision intelligence**.
+
+Current focus areas include:
+
+- **Agentic AI architectures** and multi-agent decision systems  
+- **Evaluation, reliability, and robustness of large language models** in analytical workflows  
+- **AI-driven decision intelligence platforms** for complex operational environments  
+- **Scalable ML systems and reproducible experimentation**
 
 ---
 
