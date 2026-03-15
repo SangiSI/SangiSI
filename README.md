@@ -20,7 +20,7 @@ I'm an **Applied Data Scientist**, deeply passionate about advancing Artificial 
 ## 🚀 Featured Work
 
 - **LLM Model Selection Lab**  
-  **Decision-centric evaluation lab** for intelligent **LLM model selection** across real-world **GenAI workflows**.
+  Decision-centric evaluation lab for intelligent **LLM model selection** across real-world **GenAI workflows**.
 
 - **Databricks MLOps Lifecycle**  
   End-to-end ML lifecycle using **Spark ML, MLflow, Delta Lake, orchestration, and drift monitoring**.
